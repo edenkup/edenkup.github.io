@@ -13,9 +13,9 @@ redirect_from:
 I'm a PhD student in Tel Aviv University under the supervision of [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/). My research interests lie mainly in Ramsey theory and in probabilistic combinatorics.
 
 **Papers**
-- [*On the anti-Ramsey threshold*](https://www.youtube.com/watch?v=L4HW33SgZlM) <br />
+- [*On the anti-Ramsey threshold*](https://arxiv.org/pdf/2501.03439) <br />
    E. Kuperwasser <br />
-   <i>Submitted</i>  
+   <i>Submitted</i>, (2025)  
 
 - [*On the Kohayakawa–Kreuter conjecture*](https://arxiv.org/pdf/2307.16611.pdf) <br />
    E. Kuperwasser, W. Samotij, Y. Wigderson <br />
@@ -27,7 +27,7 @@ I'm a PhD student in Tel Aviv University under the supervision of [Wojciech Samo
    
 - [*Sharp thresholds for Ramsey properties*](https://arxiv.org/pdf/2207.13982.pdf) <br />
    E. Friedgut, E. Kuperwasser, W. Samotij, M. Schacht <br />
-   <i>Submitted</i>
+   <i>Submitted</i>, (2022)
    
 - [*List Ramsey Numbers*](https://arxiv.org/pdf/1902.07018) <br />
    N. Alon, M. Bucić, T. Kalvari, E. Kuperwasser, T. Szabó <br />
