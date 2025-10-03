@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 excerpt: "Links"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /links/
   - /links.html
