@@ -1,8 +1,10 @@
 ---
 permalink: /links/
-title: "Links"
+title: ""
 author_profile: true
 ---
+
+**Links**
 
 - A [short lecture](https://edenkup.github.io/files/necklace_splitting.pdf) on the necklace splitting problem. (Hebrew)
 
