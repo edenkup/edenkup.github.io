@@ -15,7 +15,11 @@ I'm a PhD student in Tel Aviv University under the supervision of [Wojciech Samo
 **Papers**
 - [*On the anti-Ramsey threshold*](https://arxiv.org/pdf/2501.03439) <br />
    E. Kuperwasser <br />
-   <i>Submitted</i>, (2025)  
+   <i>Submitted</i>
+
+- [*Sharp thresholds for Ramsey properties*](https://arxiv.org/pdf/2207.13982.pdf) <br />
+   E. Friedgut, E. Kuperwasser, W. Samotij, M. Schacht <br />
+   <i>Submitted</i>
 
 - [*On the Kohayakawa–Kreuter conjecture*](https://arxiv.org/pdf/2307.16611.pdf) <br />
    E. Kuperwasser, W. Samotij, Y. Wigderson <br />
@@ -24,10 +28,6 @@ I'm a PhD student in Tel Aviv University under the supervision of [Wojciech Samo
 - [*The list-Ramsey threshold for families of graphs*](https://arxiv.org/pdf/2305.19964.pdf) <br />
    E. Kuperwasser, W. Samotij <br />
    <i>Combinatorics, Probability and Computing</i>, 33, (2024), 829-851
-   
-- [*Sharp thresholds for Ramsey properties*](https://arxiv.org/pdf/2207.13982.pdf) <br />
-   E. Friedgut, E. Kuperwasser, W. Samotij, M. Schacht <br />
-   <i>Submitted</i>, (2022)
    
 - [*List Ramsey Numbers*](https://arxiv.org/pdf/1902.07018) <br />
    N. Alon, M. Bucić, T. Kalvari, E. Kuperwasser, T. Szabó <br />
