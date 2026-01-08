@@ -14,7 +14,7 @@ author_profile: true
 
 *Currently reading*
 
-- [Combinatorial Hodge theory](https://www.ams.org/journals/notices/202503/rnoti-p261.pdf)
+- [Sumsets and entropy](https://arxiv.org/pdf/2306.13403)
 
 - [Factors in random graphs](https://arxiv.org/pdf/0803.3406)
 
