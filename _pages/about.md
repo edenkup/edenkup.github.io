@@ -13,13 +13,13 @@ redirect_from:
 I'm a PhD student in Tel Aviv University under the supervision of [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/). My research interests lie mainly in Ramsey theory and in probabilistic combinatorics.
 
 **Papers**
-- [*On the anti-Ramsey threshold*](https://arxiv.org/pdf/2501.03439) <br />
-   E. Kuperwasser <br />
-   <i>Submitted</i>
-
 - [*Sharp thresholds for Ramsey properties*](https://arxiv.org/pdf/2207.13982.pdf) <br />
    E. Friedgut, E. Kuperwasser, W. Samotij, M. Schacht <br />
    <i>Submitted</i>
+
+- [*On the anti-Ramsey threshold*](https://arxiv.org/pdf/2501.03439) <br />
+   E. Kuperwasser <br />
+   <i>European Journal of Combinatorics</i>, to appear.
 
 - [*On the Kohayakawa–Kreuter conjecture*](https://arxiv.org/pdf/2307.16611.pdf) <br />
    E. Kuperwasser, W. Samotij, Y. Wigderson <br />
