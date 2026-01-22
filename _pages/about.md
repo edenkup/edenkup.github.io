@@ -19,7 +19,7 @@ I'm a PhD student in Tel Aviv University under the supervision of [Wojciech Samo
 
 - [*On the anti-Ramsey threshold*](https://arxiv.org/pdf/2501.03439) <br />
    E. Kuperwasser <br />
-   <i>European Journal of Combinatorics</i>, to appear.
+   <i>European Journal of Combinatorics</i>, 134, (2026), 104344.
 
 - [*On the Kohayakawa–Kreuter conjecture*](https://arxiv.org/pdf/2307.16611.pdf) <br />
    E. Kuperwasser, W. Samotij, Y. Wigderson <br />
