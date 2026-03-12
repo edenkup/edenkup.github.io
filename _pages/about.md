@@ -15,7 +15,7 @@ I'm a PhD student in Tel Aviv University under the supervision of [Wojciech Samo
 **Papers**
 - [*Sharp thresholds for Ramsey properties*](https://arxiv.org/pdf/2207.13982.pdf) <br />
    E. Friedgut, E. Kuperwasser, W. Samotij, M. Schacht <br />
-   <i>Forum of Mathematics, Sigma</i>, 14 , (2026), e32.
+   <i>Forum of Mathematics, Sigma</i>, 14, (2026), e32.
 
 - [*On the anti-Ramsey threshold*](https://arxiv.org/pdf/2501.03439) <br />
    E. Kuperwasser <br />
