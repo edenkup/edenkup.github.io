@@ -10,7 +10,7 @@ redirect_from:
 
 **About**
 
-I'm a PhD student in Tel Aviv University under the supervision of [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/). My research interests lie mainly in Ramsey theory and in probabilistic combinatorics.
+I am a Postdoc at the University of Bonn, hosted by [Lisa Sauermann](https://www.iam.uni-bonn.de/probabilistic-combinatorics/lisa-sauermann/lisa-sauermann). Before that, I completed my PhD and Master's at Tel Aviv University under the supervision of [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/). My research interests lie mainly in Ramsey theory and probabilistic combinatorics.
 
 **Papers**
 - [*Sharp thresholds for Ramsey properties*](https://arxiv.org/pdf/2207.13982.pdf) <br />
