@@ -16,11 +16,9 @@ author_profile: true
 
 *Currently reading*
 
-- [Sumsets and entropy](https://arxiv.org/pdf/2306.13403)
+- [This and that](https://github.com/openai/math/blob/main/CONTENTS.md)
 
 - [Factors in random graphs](https://arxiv.org/pdf/0803.3406)
-
-- [Surveys in combinatorics 2024](https://www.cambridge.org/core/books/surveys-in-combinatorics-2024/739194534C6C9AE9BD6B466A26287888)
 
 *Currently listening*
 
