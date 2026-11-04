@@ -19,7 +19,7 @@ author_profile: true
   | **Nov 25** | TBA |
   | ~~Dec 2~~ | No meeting! (Dies Academicus) |
   | **Dec 9** | The average degree of graphs with no K<sub>t</sub> minor |
-  | **Dec 16** | TBA |
+  | **Dec 16** | Algorithmic Lovász Local Lemma |
   | ~~Dec 23~~ | No meeting! (winter break)|
   | ~~Dec 30~~ | No meeting! (winter break) |
   | ~~Jan 6~~ | No meeting! (winter break) |
