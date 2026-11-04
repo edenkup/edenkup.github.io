@@ -9,17 +9,18 @@ author_profile: true
 - S4F3 Graduate Seminar Applied Probability - Probabilistic Combinatorics. [details](https://edenkup.github.io/files/Seminar_WS_2026_27.pdf)
 
   ***Current schedule*** (room N0.007 at 12:15)
+  
 
-      28.10: The Crossing Lemma
+  **Oct 28** — The Crossing Lemma
 
-      4.11: Lower bounds for Ramsey numbers
+  **Nov 4** — Lower bounds for Ramsey numbers
 
-      11.11:  NO CLASS
+  **Nov 11** —————NO CLASS—————
+  
+  **Nov 18** — Random algebraic constructions in extremal graph theory
 
-      18.11: Random algebraic constructions in extremal graph theory
+  **Dec 19** — The average degree of graphs with no Kt minor
 
-      9.12: The average degree of graphs with no Kt minor
+  **Jan 13** — Bourgain's embedding theorem
 
-      13.1: Bourgain's embedding theorem
-
-      20.1: Dependent random choice and the Balog–Szemerédi–Gowers theorem
+  **Jan 20** — Dependent random choice and the Balog–Szemerédi–Gowers theorem
