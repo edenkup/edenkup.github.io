@@ -8,7 +8,7 @@ author_profile: true
 
 - S4F3 Graduate Seminar Applied Probability - Probabilistic Combinatorics. [details](https://edenkup.github.io/files/Seminar_WS_2026_27.pdf)
 
-  ***Current schedule*** (room N0.007 at 12:15)
+  ***Current schedule*** (All meetings at 12:15, room N0.007)
   
 
   **Oct 28** — The Crossing Lemma
