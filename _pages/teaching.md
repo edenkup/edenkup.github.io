@@ -14,7 +14,7 @@ author_profile: true
   |:-----|:------|
   | **Oct 28** | The Crossing Lemma and its applications |
   | **Nov 4**  | Lower bounds for Ramsey numbers |
-  | Nov 11 | No meeting! |{: .empty}
+  | ~~Nov 11~~ | No meeting! |
   | **Nov 18** | Random algebraic constructions in extremal graph theory |
   | **Nov 25** | TBA |
   | ~~Dec 2~~ | No meeting! (Dies Academicus) |
