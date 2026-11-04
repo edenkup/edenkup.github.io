@@ -25,5 +25,6 @@ author_profile: true
   | ~~Jan 6~~ | No meeting! (winter break) |
   | **Jan 13** | Bourgain's embedding theorem |
   | **Jan 20** | Dependent random choice and the Balog–Szemerédi–Gowers theorem |
+  | **Jan 27** | TBA |
   {: .my_table}
   
