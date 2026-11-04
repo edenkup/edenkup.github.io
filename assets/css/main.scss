@@ -39,3 +39,24 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.my_table {
+  border-collapse: collapse;
+  border: 1px solid #fdba74;
+
+  thead {
+    background-color: #c2410c;
+    th {
+      color: #fff;
+      border-color: #9a3412;
+    }
+  }
+
+  tbody tr:nth-child(2n+1) { background-color: #fff7ed; }
+  tbody tr:nth-child(2n)   { background-color: #ffedd5; }
+
+  td {
+    border-color: #fdba74;
+    &:first-child { font-weight: 600; white-space: nowrap; color: #9a3412; }
+  }
+}
