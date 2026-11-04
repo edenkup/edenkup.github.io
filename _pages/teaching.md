@@ -10,6 +10,7 @@ author_profile: true
 
   All meetings at 12:15 in room N0.007.
 
+<div class="notice--info" markdown="1">
   | Date | Topic |
   |:-----|:------|
   | **Oct 28** | The Crossing Lemma and its applications |
@@ -25,5 +26,6 @@ author_profile: true
   | ~~Jan 6~~ | No meeting! (winter break) |
   | **Jan 13** | Bourgain's embedding theorem |
   | **Jan 20** | Dependent random choice and the Balog–Szemerédi–Gowers theorem |
-
+  {: .my_table}
+</div>
   
