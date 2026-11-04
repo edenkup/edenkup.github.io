@@ -52,9 +52,12 @@
     }
   }
 
-  tbody tr:nth-child(2n+1) { background-color: #fff7ed; }
-  tbody tr:nth-child(2n)   { background-color: #ffedd5; }
-  tbody tr:nth-child(1)    { background-color: #fff000; }
+  tbody tr:nth-child(n) { background-color: #fff7ed; }
+  tbody tr:nth-child(3)   { background-color: #ffedd5; }
+  tbody tr:nth-child(6)   { background-color: #ffedd5; }
+  tbody tr:nth-child(9)   { background-color: #ffedd5; }
+  tbody tr:nth-child(10)   { background-color: #ffedd5; }
+  tbody tr:nth-child(11)   { background-color: #ffedd5; }
 
   td {
     border-color: #fdba74;
