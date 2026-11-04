@@ -46,17 +46,19 @@
 
   thead {
     background-color: #c2410c;
-    th {
-      color: #fff;
-      border-color: #9a3412;
-    }
+    th { color: #fff; border-color: #9a3412; }
   }
 
-  tbody tr:nth-child(2n+1) { background-color: #fff7ed; }
-  tbody tr:nth-child(2n)   { background-color: #ffedd5; }
+  tbody tr { background-color: #fff7ed; }
+
+  tbody tr.empty {
+    background-color: transparent;
+    color: #a8a29e;
+    font-style: italic;
+  }
 
   td {
     border-color: #fdba74;
-    &:first-child { font-weight: 600; white-space: nowrap; color: #9a3412; }
+    &:first-child { font-weight: 600; white-space: nowrap; }
   }
 }
