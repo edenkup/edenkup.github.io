@@ -6,7 +6,7 @@ author_profile: true
 
 **Winter semester 2026/27**
 
-- S4F3 Graduate Seminar on Applied Probability: Probabilistic Combinatorics. [details](https://edenkup.github.io/files/Seminar_WS_2026_27.pdf)
+- S4F3 Graduate Seminar on Applied Probability - Probabilistic Combinatorics. [details](https://edenkup.github.io/files/Seminar_WS_2026_27.pdf)
 
   All meetings at 12:15 in room N0.007.
 
